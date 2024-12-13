@@ -12,35 +12,37 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Wordle
-build_property.ProjectDir = C:\Users\ENOCHOLAOYE-STUDENT\OneDrive - Atlantic TU\2024-2025 Second Year\Cross Platform Application Development\Wordle22\Wordle\
+build_property.ProjectDir = C:\Users\Enoch\OneDrive - Atlantic TU\2024-2025 Second Year\Cross Platform Application Development\Wordle3\Wordle\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ENOCHOLAOYE-STUDENT/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle22/Wordle/App.xaml]
+[C:/Users/Enoch/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle3/Wordle/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Wordle.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/ENOCHOLAOYE-STUDENT/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle22/Wordle/AppShell.xaml]
+[C:/Users/Enoch/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle3/Wordle/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Wordle.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/ENOCHOLAOYE-STUDENT/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle22/Wordle/MainPage.xaml]
+[C:/Users/Enoch/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle3/Wordle/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Wordle.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/ENOCHOLAOYE-STUDENT/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle22/Wordle/Resources/Styles/Colors.xaml]
+[C:/Users/Enoch/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle3/Wordle/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Wordle.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/ENOCHOLAOYE-STUDENT/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle22/Wordle/Resources/Styles/Styles.xaml]
+[C:/Users/Enoch/OneDrive - Atlantic TU/2024-2025 Second Year/Cross Platform Application Development/Wordle3/Wordle/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Wordle.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
